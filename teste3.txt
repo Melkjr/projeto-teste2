@@ -1,4 +1,2 @@
-teste3
-modificação
-modificação2
-pipi
+aqui estou test o git 
+para entender os comandos!
