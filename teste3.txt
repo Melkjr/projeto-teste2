@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master1
+=======
+aqui estou test o git 
+para entender os comandos!
+>>>>>>> 664aca797b20a94b554b598df3598d73b0554aa0
